@@ -31,3 +31,8 @@ Created all of the symbols and built out the schematic
 
 <img width="1512" height="982" alt="Screenshot 2025-07-23 at 1 27 12 PM" src="https://github.com/user-attachments/assets/f299dd69-b7a3-4bf6-a284-26424d87bcbe" />
 <img width="1512" height="982" alt="Screenshot 2025-07-23 at 1 27 17 PM" src="https://github.com/user-attachments/assets/c0296b1d-d92e-4ffb-ade6-f13ec9133735" />
+
+
+7/24/2025 
+
+Started to build out the actual box and rest of the components via fusion360 to finish up the project. Will finish the rest of the cad by tomorrow. 
