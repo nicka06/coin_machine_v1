@@ -3,10 +3,9 @@
 This is an automated coin machine, allowing an individual to easily take pictures of all the coins that they have. It works very simply. The user inserts the coin into the chute located at the front of the machine. Once the coin has made its way to the flipper, the servo flips it over twice, allowing the camera to take a picture of both sides. Following the completion of the flips, the coin is ejected, taking it through external coin chute and collection box. Beyond the mechanics of the camera/flipper system, the system has an additional chute that is opened by the servo connected to the excursion on the right side of the mahine. If the system recognizes multiple coins in the system (via the phototransistor sensor), the chute will open up, removing the extra coins from the system via the second external coin chute. This coin chute brings the extra coins to the front of the machine.
 
 I'm building this automated coin machine due to my love of coins. I enjoy collecting them and taking pictures of the new ones I get at the bank to keep track of them. As you can imagine, this is an extremely difficult and annoying process. This cuts through all of it, making the grueling process much better. Later, I'll also be able to add more features such as automatic value estimator and more. I can't wait to finish building it!
+<img width="1512" height="982" alt="Screenshot 2025-08-06 at 12 46 12 AM" src="https://github.com/user-attachments/assets/7affd0ec-5d8a-47b7-923c-e7ad163549f3" />
+<img width="500" height="500" alt="Front chute" src="https://github.com/user-attachments/assets/28e1d4e4-c9b8-493e-8090-c57b29e05b0d" />
 
-<img width="1512" height="982" alt="Screenshot 2025-08-01 at 8 50 29 PM" src="https://github.com/user-attachments/assets/b9ee455a-5a80-4624-b3e6-ebbe2c3df88d" />
-<img width="1512" height="982" alt="Screenshot 2025-08-01 at 8 50 41 PM" src="https://github.com/user-attachments/assets/b9124bb3-de70-4838-b487-b13a8456914d" />
-<img width="1512" height="982" alt="Screenshot 2025-08-01 at 8 50 43 PM" src="https://github.com/user-attachments/assets/de051d73-088d-4b31-b654-5fc940ef9322" />
 
 <img width="1512" height="982" alt="Screenshot 2025-07-26 at 3 54 14 PM" src="https://github.com/user-attachments/assets/542c432e-0225-4219-871c-024a22f14a9c" />
 
