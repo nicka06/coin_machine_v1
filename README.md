@@ -5,6 +5,7 @@ This is an automated coin machine, allowing an individual to easily take picture
 I'm building this automated coin machine due to my love of coins. I enjoy collecting them and taking pictures of the new ones I get at the bank to keep track of them. As you can imagine, this is an extremely difficult and annoying process. This cuts through all of it, making the grueling process much better. Later, I'll also be able to add more features such as automatic value estimator and more. I can't wait to finish building it!
 <img width="1512" height="982" alt="Screenshot 2025-08-06 at 12 46 12 AM" src="https://github.com/user-attachments/assets/7affd0ec-5d8a-47b7-923c-e7ad163549f3" />
 <img width="500" height="500" alt="Front chute" src="https://github.com/user-attachments/assets/28e1d4e4-c9b8-493e-8090-c57b29e05b0d" />
+<img width="1512" height="982" alt="Screenshot 2025-08-06 at 12 53 51 AM" src="https://github.com/user-attachments/assets/4a9dc194-2439-40e2-9a78-3d5b1b09a4b5" />
 
 
 <img width="1512" height="982" alt="Screenshot 2025-07-26 at 3 54 14 PM" src="https://github.com/user-attachments/assets/542c432e-0225-4219-871c-024a22f14a9c" />
